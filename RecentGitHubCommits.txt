@@ -1,0 +1,10 @@
+e8e6f9a1a96b3ec0c98bb29b0185f0ad0dc8c079 Update build.yml
+6a5b77099e4447924cd277c2fb7c67c3847d0bcc Update build.yml
+483e2228778ab5b8c2478420cfc16925ef2cdff0 Update build.yml
+d2b35ea7beb58c202566f8568f2211e6564676df Update build.yml
+401efedc1a0c0217535bd1ee2ddf7d5aee664c09 Fix ExampleCoinsUI odd drag behavior, related UIElement docs
+4e44ebbb2a013d9fcdd7d5f6590ab44786a95057 Update ru-RU tModLoader.json (#4388)
+012730a4e1b415b6f76e58d991d55f244c0de9dc Typos/doc clarifications
+6ed6552c23f697004716fde81ba11d199929667d Update serverconfig.txt
+3eab779edbce4f57f24dc90a3c9d15ec83957688 Add hook for armor set bonus activation (#4369)
+2675f5d9087b597e86c246620dde6ac5e652459d Fix #4380

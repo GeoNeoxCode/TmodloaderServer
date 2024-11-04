@@ -1,0 +1,5 @@
+30/10/2024 22:32:20
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Terraria.Map.MapHelper.LoadMapVersion2(BinaryReader fileIO, Int32 release) in tModLoader\Terraria\Map\MapHelper.cs:line 3185
+   at Terraria.Map.WorldMap.Load() in tModLoader\Terraria\Map\WorldMap.cs:line 103
+

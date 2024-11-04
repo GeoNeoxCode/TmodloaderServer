@@ -1,0 +1,9 @@
+[09:09:41.061] [Main Thread/INFO] [TerrariaSteamClient]: Working Directory: C:\Program Files (x86)\Steam\steamapps\common\tModLoader
+[09:09:41.074] [Main Thread/INFO] [TerrariaSteamClient]: Args: C:\Program Files (x86)\Steam\steamapps\common\tModLoader\tModLoader.dll -terrariasteamclient 1472
+[09:09:41.074] [Main Thread/INFO] [TerrariaSteamClient]: Setting steam app id to 105600
+[09:09:41.075] [Main Thread/INFO] [TerrariaSteamClient]: SteamAPI.Init()
+[09:09:41.225] [Main Thread/INFO] [TerrariaSteamClient]: Terraria BuildID: 9965506
+[09:09:41.226] [Main Thread/DEBUG] [TerrariaSteamClient]: Send: init_success
+[09:09:41.229] [Main Thread/DEBUG] [TerrariaSteamClient]: Recv: acknowledged
+[09:14:29.464] [Main Thread/DEBUG] [TerrariaSteamClient]: Recv: shutdown
+[09:14:29.470] [Main Thread/INFO] [TerrariaSteamClient]: SteamAPI.Shutdown()
